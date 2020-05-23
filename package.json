@@ -1,0 +1,18 @@
+{
+  "name": "hacksmithbot",
+  "version": "1.0.0",
+  "description": "Hacksmith bot core",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-mqtt": "^2.5.0",
+    "discord.js": "^12.2.0",
+    "node-schedule": "^1.3.2",
+    "reconnecting-websocket": "^4.4.0",
+    "sqlite3": "^4.2.0"
+  }
+}
